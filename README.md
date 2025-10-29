@@ -1,5 +1,4 @@
 # Hola, yo soy Liz! Fronted Developer 
 ## Sobre mí
-¡Hola! Soy una apasionada desarrolladora Fronted con un gran enfoque en JavaScript. Mi viaje en el mundo de la tecnología comenzó con una fascinación por crear soluciones que no solo funcionen de manera eficiente sino que también brinden una experiencia de usuario convincente.
-A medida que continúo mi viaje en el desarrollo Fronted, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. 
+Hola, soy Fronted developer y Bachiller en Ingeniería de Sistemas con experiencia en desarrollo web, gestión pública y análisis de datos. Tengo más de 1 año de experiencia profesional en el desarrollo de aplicaciones web. Especializada en el desarrollo frontend con dominio en React, incluyendo JavaScript, TypeScript, Tailwind, Zustand y Jest. Con una trayectoria demostrada en el trabajo con arquitecturas escalables. Hábil y proactiva en la creación de productos digitales de alta calidad en entornos de trabajo ágiles (Scrum) y en equipos multidisciplinarios. 
 
